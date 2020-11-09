@@ -1,0 +1,1 @@
+[ -f "rom_mars.bin" ] && retroarch -L "tools/picodrive_libretro.so" rom_mars.bin || echo "NO ROM"
