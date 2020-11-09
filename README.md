@@ -10,4 +10,3 @@ Supported:
 
 Bugs:
 - DAC might play corrupted sample data
-- DAC should NOT work on SegaCD but it does 
